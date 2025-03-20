@@ -25,4 +25,4 @@ A simple console application built in C# to manage tasks. Users can add, view, m
 ## 🚀 How to Run
 1. **Clone this repository:**  
 ```bash
-git clone https://github.com/MilenaRPotes/BasicPayrollCalculator.git
+git clone https://github.com/MilenaRPotes/TaskManagementSystem.git
